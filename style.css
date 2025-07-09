@@ -1,0 +1,126 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+/* header{
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    margin: 50px auto;
+} */
+
+.conteiner{
+background-image: linear-gradient(180deg, #070211 0%, rgba(7, 2, 17, 0) 100%), url("../images/Banner Image.png");
+max-width: 1320px;
+height: 600px;
+justify-content: center;
+    align-items: center;
+    margin: 50px auto;
+    border-radius: 15px;
+
+}
+h4{
+    font-size: 32px;
+    color: white;
+    
+}
+h2{
+    color: white;
+    font-size: 72px;
+    font-weight: bold;
+    
+}
+.new-year{
+    padding: 177px 344px;
+    text-align: center;
+    width: 632px;
+    height: 246px;
+}
+/* banner style */
+.banner{
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    margin: 50px auto;
+}
+.ban-parcent{
+    font-size: 88px;
+    font-weight: bold;
+    color: #FF0000;
+    margin: 50px auto;
+}
+#offer-small-text{
+    color: #FF0000;
+    /* margin: 50px auto; */
+}
+#offer-big-text{
+    font-size: 48px;
+    font-weight: bold;
+    color: #070211;
+}
+.ban-text{
+    margin-bottom: 50px;
+}
+.midnight-party{
+   max-width: 1320px;
+height: 600px;
+    background-image: linear-gradient(180deg, #070211 0%, rgba(7, 2, 17, 0) 100%), url("./images/Vectorrr.png");  
+justify-content: center;
+/* justify-items: center; */
+    margin: 50px auto;
+    display: flex;
+      align-items: center;
+    gap: 90px;
+    border-radius: 15px;
+}
+#midnight-big-text{
+    font-size: 64px;
+    color: white;
+    padding: 126px 94px 24px 126px;
+}
+#midnight-small-text{
+    font-size: 18px;
+    color: #FFFFFF;
+    padding: 0px 39px 214px 126px;
+}
+#midnight-btn{
+    padding: 15px 601px 142px 158px;
+    font-size: 10px;
+    font-weight: bold;
+}
+#midnight-btn2{
+    font-size: 20px;
+    font-weight: bold;
+    width: 153px;
+    height: 24px;
+    cursor: pointer;
+}
+.img-2024{
+    padding: 68px 138px 68px 0px;
+}
+/* box style */
+.box{
+    max-width: 1320px;
+height: 482px;
+margin: 50px auto;
+background-color: rgba(255, 146, 92, 0.823);
+border-radius: 20px;
+text-align: center;
+}
+.box-text{
+    text-align: center;
+    padding: 100px 386px 110px 385px;
+}
+
+
+
+#btn-2{
+    color: rgb(255, 255, 255);
+    font-size: 20;
+    font-weight: bold;
+    background-color: #FF0000;
+    padding: 16px 32px;
+   
+}
+
