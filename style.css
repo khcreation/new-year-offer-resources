@@ -11,7 +11,7 @@
 } */
 
 .conteiner{
-background-image: linear-gradient(180deg, #070211 0%, rgba(7, 2, 17, 0) 100%), url("../images/Banner Image.png");
+background-image: linear-gradient(180deg, #070211 0%, rgba(7, 2, 17, 0) 100%), url("./images/Banner Image.png");
 max-width: 1320px;
 height: 600px;
 justify-content: center;
